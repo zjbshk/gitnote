@@ -1,2 +1,1 @@
-# gitnote
-笔记
+以后就用github做笔记了
