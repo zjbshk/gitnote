@@ -7,7 +7,3 @@
 
 ok后使用nginx作反向代理
 
-核心：密码加密，不能泄漏
-
-sfdsf
-sfdksfjdsl
